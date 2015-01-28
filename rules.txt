@@ -1,0 +1,28 @@
+*********** OBJECT ***********
+Guess the "secret code" and become the Lord of Brains! 
+
+The code is a sequence of four colored pegs chosen by the computer.
+
+The pegs come in six colors: red, orange, yellow, green, blue & purple.
+
+
+********* GAME PLAY *********
+Guess a configuration of four pegs at each row, starting at the bottom row.
+
+Click each peg to cycle through the six colors. When you are
+satisfied with the row, click "Submit" to enter your guess.
+
+The computer will give you "feedback" on the accuracy of your guess:
+- a black peg indicates a peg of the right color in the right position
+- a white peg indicates a peg of the right color, but the wrong position
+Use this feedback to choose your guess for the next row.
+
+Your goal is to match the secret code exactly before reaching the top row.
+
+
+********** SCORING **********
+Low scores are better. 
+Your score goes up one point for each incorrect guess/row. 
+
+You win if you match the code exactly before running out of rows.
+You lose if you get to the top of the board without guessing the code.
