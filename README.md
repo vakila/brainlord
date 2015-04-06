@@ -1,7 +1,9 @@
 # BrainLord
-A colorful code-breaking game based on the classic board game "MasterMind"
+A colorful code-breaking game
 
 #### Anjana Vakil
+Intro to Python Programming
+Saarland University
 20 December 2012
 
 ### Running the game:
